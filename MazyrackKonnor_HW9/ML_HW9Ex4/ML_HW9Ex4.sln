@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ML_HW9Ex4", "ML_HW9Ex4\ML_HW9Ex4.pyproj", "{73950AB1-A58F-4FB2-B8F6-F39E66CAC001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73950AB1-A58F-4FB2-B8F6-F39E66CAC001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73950AB1-A58F-4FB2-B8F6-F39E66CAC001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C48F8C1-3F30-4140-A83B-4F1B66A6998F}
+	EndGlobalSection
+EndGlobal
