@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MLFinalEx2", "MLFinalEx2\MLFinalEx2.pyproj", "{A9C207D0-55D8-4E20-AC42-E01754AD81A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C207D0-55D8-4E20-AC42-E01754AD81A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C207D0-55D8-4E20-AC42-E01754AD81A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E70C0D1B-9D2C-43B9-A5D1-C8066B614815}
+	EndGlobalSection
+EndGlobal
