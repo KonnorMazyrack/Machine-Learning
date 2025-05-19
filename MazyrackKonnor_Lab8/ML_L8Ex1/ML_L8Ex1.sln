@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ML_L8Ex1", "ML_L8Ex1\ML_L8Ex1.pyproj", "{4E9F11A2-1A13-4374-9C58-AE0EA2A9644B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9F11A2-1A13-4374-9C58-AE0EA2A9644B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9F11A2-1A13-4374-9C58-AE0EA2A9644B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8640B3CF-DE0D-4D9E-8A37-52DF730AFAC1}
+	EndGlobalSection
+EndGlobal
